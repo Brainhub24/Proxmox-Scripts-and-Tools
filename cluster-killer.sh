@@ -3,6 +3,9 @@
 # Email: github@brainhub24.com
 # About this Tool:
 # - It is a safely decommission a single Proxmox node from a cluster including a configuration dump
+# PROXMOX Community
+# Idea: I created this tiny tool based on the commands i found in the following thread.
+# Topic: https://forum.proxmox.com/threads/remove-or-reset-cluster-configuration.114260/
 
 # Function to log messages
 log_message() {
