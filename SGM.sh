@@ -1,4 +1,10 @@
 #!/bin/bash
+# Jan Gebser - Brainhub24.com
+# Email: github@brainhub24.com
+# About this Tool:
+# - It will an effective fast tool to simply grand regular users SUDO Power!
+# Improvements:
+# - Nothing atm, more improvements will come soon maybe
 
 display_dragon() {
     clear
